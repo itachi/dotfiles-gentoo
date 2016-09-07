@@ -1,0 +1,52 @@
+sw_volume: 98
+audio_device_state:1:My ALSA Device
+audio_device_state:1:FIFO for NCMPCPP
+state: stop
+current: 16
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Korean/BLACKPINK/BLACKPINK - SQUARE ONE/01. 휘파람.mp3
+1:Korean/BLACKPINK/BLACKPINK - SQUARE ONE/02. 붐바야.mp3
+2:Japanese/Runa Mizutani/Mizutani Runa - Philosophyz [320k] (2011.01.28)/01 Philosophyz.mp3
+3:Japanese/Runa Mizutani/Mizutani Runa - Philosophyz [320k] (2011.01.28)/02 Yami no Kanata he.mp3
+4:Japanese/Runa Mizutani/Mizutani Runa - Philosophyz [320k] (2011.01.28)/03 Philosophyz Game size Ver..mp3
+5:Japanese/Runa Mizutani/Mizutani Runa - Philosophyz [320k] (2011.01.28)/04 Yami no Kanata he Game size Ver..mp3
+6:Japanese/Runa Mizutani/Mizutani Runa - Philosophyz [320k] (2011.01.28)/05 Philosophyz off vocal Ver..mp3
+7:Japanese/Runa Mizutani/Mizutani Runa - Philosophyz [320k] (2011.01.28)/06 Yami no Kanata he off vocal Ver..mp3
+8:Japanese/Nocturnal Bloodlust/Album/ZēTēS/01 - ZeTeS.mp3
+9:Japanese/Nocturnal Bloodlust/Album/ZēTēS/02 - Malice against.mp3
+10:Japanese/Nocturnal Bloodlust/Album/ZēTēS/03 - EXCEED.mp3
+11:Japanese/Nocturnal Bloodlust/Album/ZēTēS/04 - NG＋.mp3
+12:Japanese/Nocturnal Bloodlust/Album/ZēTēS/05 - Deep Inside.mp3
+13:Japanese/Nocturnal Bloodlust/Album/ZēTēS/06 - the strength I need.mp3
+14:Japanese/Nocturnal Bloodlust/Album/ZēTēS/07 - Malice against (Instrumental).mp3
+15:Japanese/Nocturnal Bloodlust/Album/ZēTēS/08 - Rebellion  (Re-Recorded  Remastered )(2016).mp3
+16:Japanese/Nocturnal Bloodlust/Album/ZēTēS/09 - A Bullet of Skyline (Re-Recorded  Remastered )(2016).mp3
+17:Japanese/ONE OK ROCK/2011.07.20 - Re;make ; NO SCARED [320kbps]/01. Re;make.mp3
+18:Japanese/ONE OK ROCK/2011.07.20 - Re;make ; NO SCARED [320kbps]/02. NO SCARED.mp3
+19:Japanese/ONE OK ROCK/2011.07.20 - Re;make ; NO SCARED [320kbps]/03. Rock, Scissors, Paper.mp3
+20:Japanese/ONE OK ROCK/ONE OK ROCK - Always coming back/01 Always coming back.m4a
+21:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/01 DAYS of DASH.mp3
+22:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/02 Yume no Tsuzuki.mp3
+23:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/03 CHOIR JAIL.mp3
+24:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/05 Unmei no Engagement.mp3
+25:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/06 AVENGE WORLD (Album Ver.).mp3
+26:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/07 Shuujin -Paradox 2013-.mp3
+27:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/08 Sekai wa Kizu wo Dakishimeru (Album Ver.).mp3
+28:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/09 Anata ni.mp3
+29:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/10 Yakusoku no Tsuzuki.mp3
+30:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/11 Tears BREAKER (Album Ver.).mp3
+31:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/12 Tsuioku no Kuroki Makenshi (2014MIX Ver.).mp3
+32:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/13 I say ''Happy day!''.mp3
+33:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/14 Open Heart.mp3
+34:Japanese/Suzuki Konomi/Album/Konomi Suzuki - 17/15 DAYS of DASH (Pf Ver.).mp3
+35:Japanese/the GazettE/2. Singles/[2016.04.27] UNDYING/01 Undying.m4a
+36:Japanese/the GazettE/2. Singles/[2016.04.27] UNDYING/02 Malum.m4a
+37:Japanese/the GazettE/2. Singles/[2016.04.27] UNDYING/03 Vacant.m4a
+playlist_end
